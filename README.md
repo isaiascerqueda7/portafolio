@@ -1,2 +1,2 @@
 # portafolio
-Mi primer sitio web en HTML y CSS
+Sitio web para mostrar los proyectos de un portafolio
